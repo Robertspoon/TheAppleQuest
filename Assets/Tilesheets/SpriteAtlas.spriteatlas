@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1349061031, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 756890870, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 2112443114, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 279625655, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -836148464, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 46059161, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1143662380, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -158510671, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1965378284, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -2055882300, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 1815882216, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 75342475, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 929193541, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 418591785, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1259949110, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -2129113360, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 294599801, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 378918871, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 566427757, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 131188528, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 1128678138, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 9414023, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1860453764, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -872243783, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 271222383, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1499297824, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 1990103761, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1628010198, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 1872597589, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1266162755, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -826480858, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -975258894, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -810414526, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1809570120, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 18003587, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1569492071, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 1486862566, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1790375726, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 1181943980, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 971767040, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1979074231, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1289943142, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 1614199402, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 1150072678, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1793695257, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 560933262, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -591948309, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 851931806, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 847542019, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -219287931, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1674865866, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -1537329860, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 830540845, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: -719921421, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  - {fileID: 429318613, guid: 4b4ca0ef8e10b6041be89de176b6005d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TileMap_19
+  - TileMap_18
+  - TileMap_48
+  - TileMap_49
+  - TileMap_15
+  - TileMap_46
+  - TileMap_14
+  - TileMap_47
+  - TileMap_17
+  - TileMap_44
+  - TileMap_16
+  - TileMap_45
+  - TileMap_11
+  - TileMap_42
+  - TileMap_10
+  - TileMap_43
+  - TileMap_13
+  - TileMap_40
+  - TileMap_12
+  - TileMap_41
+  - TileMap_8
+  - TileMap_9
+  - TileMap_6
+  - TileMap_7
+  - TileMap_4
+  - TileMap_5
+  - TileMap_2
+  - TileMap_3
+  - TileMap_0
+  - TileMap_1
+  - TileMap_51
+  - TileMap_50
+  - TileMap_53
+  - TileMap_52
+  - TileMap_24
+  - TileMap_25
+  - TileMap_54
+  - TileMap_26
+  - TileMap_27
+  - TileMap_37
+  - TileMap_20
+  - TileMap_36
+  - TileMap_21
+  - TileMap_35
+  - TileMap_22
+  - TileMap_34
+  - TileMap_23
+  - TileMap_33
+  - TileMap_32
+  - TileMap_31
+  - TileMap_30
+  - TileMap_28
+  - TileMap_29
+  - TileMap_39
+  - TileMap_38
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
